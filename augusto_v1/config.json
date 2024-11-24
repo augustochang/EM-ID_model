@@ -1,0 +1,18 @@
+{
+    "ip_address": "192.168.8.214",
+    "streaming_port": 8900,
+    "device_label": "alexa",
+    "decimation_factor": 1024,
+    "base_dir": "data_test",
+    "session_delay_seconds": 0,
+    "session_duration_seconds": 5,
+    "processing_method": "welch",
+    "aws_api_endpoint": "https://0tcfcx9zxc.execute-api.us-east-1.amazonaws.com/beta/test",
+    "aws_api_key": "xrOcf2c9x778pb76Fojpv7cAUizmiQyl8aIm3Gcd",
+    "model_path": "model_welch_nn.h5",
+    "scaler_path": "scaler_welch_nn.pkl",
+    "mlb_path": "mlb_welch_nn.pkl"
+}
+
+
+

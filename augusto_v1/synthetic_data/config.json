@@ -1,0 +1,11 @@
+{
+    "aws": {
+        "access_key_id": "AKIAVVZPCXVMC76KR657",
+        "secret_access_key": "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",
+        "region_name": "us-east-1"
+    },
+    "dynamodb": {
+        "table_name": "Synthetic_data_1_year",
+        "file_name": "synthetic_household_data.jsonl"
+    }
+}
